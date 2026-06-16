@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Customer Churn Prediction.
 
 A machine learning project for predicting customer churn using predictive analytics and data science techniques.
 
